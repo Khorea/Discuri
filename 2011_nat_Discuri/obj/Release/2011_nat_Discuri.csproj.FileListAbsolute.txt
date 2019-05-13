@@ -1,0 +1,10 @@
+F:\Altele\Scoala\Info\C#\Proiecte C#\2011_nat_Discuri\2011_nat_Discuri\bin\Release\2011_nat_Discuri.exe.config
+F:\Altele\Scoala\Info\C#\Proiecte C#\2011_nat_Discuri\2011_nat_Discuri\bin\Release\2011_nat_Discuri.exe
+F:\Altele\Scoala\Info\C#\Proiecte C#\2011_nat_Discuri\2011_nat_Discuri\bin\Release\2011_nat_Discuri.pdb
+F:\Altele\Scoala\Info\C#\Proiecte C#\2011_nat_Discuri\2011_nat_Discuri\obj\Release\2011_nat_Discuri.csprojResolveAssemblyReference.cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2011_nat_Discuri\2011_nat_Discuri\obj\Release\_2011_nat_Discuri.Form1.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2011_nat_Discuri\2011_nat_Discuri\obj\Release\_2011_nat_Discuri.Properties.Resources.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2011_nat_Discuri\2011_nat_Discuri\obj\Release\2011_nat_Discuri.csproj.GenerateResource.Cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2011_nat_Discuri\2011_nat_Discuri\obj\Release\2011_nat_Discuri.csproj.CoreCompileInputs.cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2011_nat_Discuri\2011_nat_Discuri\obj\Release\2011_nat_Discuri.exe
+F:\Altele\Scoala\Info\C#\Proiecte C#\2011_nat_Discuri\2011_nat_Discuri\obj\Release\2011_nat_Discuri.pdb
